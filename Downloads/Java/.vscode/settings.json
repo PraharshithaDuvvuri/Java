@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\HP\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+        "C:\\Users\\HP\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+}
